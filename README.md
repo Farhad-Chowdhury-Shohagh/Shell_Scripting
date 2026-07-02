@@ -51,4 +51,3 @@ This repository contains multiple shell scripting projects that demonstrate how 
 - Linux Commands
 - Command Line Interface
 
-=
